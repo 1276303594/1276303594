@@ -9,6 +9,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lumennnn)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Lumennnn's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Lumennnn&layout=compact&hide_border=true&langs_count=10)
 
 ![Metrics](https://metrics.lecoq.io/Lumennnn?template=classic&config.timezone=Asia%2FShanghai)
