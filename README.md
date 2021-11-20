@@ -20,4 +20,4 @@ Me：
 
 ![VSCode徽章](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-VS%20Code-blue)
 
-![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/2620?logoColor=white%26project=%26recentMS=0%26showProject=false)
+
